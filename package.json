@@ -1,0 +1,20 @@
+{
+  "name": "rave_grl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@pixi/devtools": "^2.0.1",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@pixi/filter-glow": "^5.2.1",
+    "pixi.js": "^8.8.1"
+  }
+}
